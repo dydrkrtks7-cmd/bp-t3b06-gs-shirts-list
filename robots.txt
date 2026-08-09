@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://yeomchang-coin-karaoke-note.nonhyeonnight.xyz/sitemap.xml
+Sitemap: https://yeomchang-coin-karaoke-note.nonhyeonnight.xyz/sitemap-pages.xml
